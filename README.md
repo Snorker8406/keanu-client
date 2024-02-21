@@ -4,17 +4,29 @@ AstraZeneca challenge
 CLIENT APP
 
 Project Technologies
+
     - ReactJS
+    
     - TypeScript
+    
     - Redux-Sagas architecture
+    
     - Material UI
+    
     - Docker containerized
+    
 Steps to setup
+
     - clone/fork Repo
+    
     - $ run npm install
+    
     - $ run npm start
+    
 Make sure your backend server is running (https://github.com/Snorker8406/keanu-server)
+
 When app is running looks like:
+
 ![view when running](preview.png)
 
 Challenge Description:
